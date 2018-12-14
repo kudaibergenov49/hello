@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ru.kkudaibergen.ServiceTest" duration-ms="88" started-at="2018-12-13T23:48:48Z" finished-at="2018-12-13T23:48:48Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="88" started-at="2018-12-13T23:48:48Z" finished-at="2018-12-13T23:48:48Z">
+      <class name="ru.kkudaibergen.ServiceTest">
+        <test-method status="PASS" signature="testGreeting()[pri:0, instance:ru.kkudaibergen.ServiceTest@64616ca2]" name="testGreeting" duration-ms="27" started-at="2018-12-13T23:48:48Z" finished-at="2018-12-13T23:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGreeting -->
+      </class> <!-- ru.kkudaibergen.ServiceTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- ru.kkudaibergen.ServiceTest -->
+</testng-results>
